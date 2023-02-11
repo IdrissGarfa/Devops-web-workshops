@@ -1,0 +1,22 @@
+header{
+    background-color: brown;
+    color: white;
+}
+
+h1{
+    color: brown;
+}
+
+#title {
+    color: orange;
+}
+
+.paragraph{
+    font-size: 30px;
+    color: gray;
+}
+
+.special{
+    font-weight: bold;
+    font-size: 1rem;
+}
